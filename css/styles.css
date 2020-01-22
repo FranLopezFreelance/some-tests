@@ -3,3 +3,16 @@ body {
     text-align: center;
     font-family: arial;
 }
+
+.container {
+    width: 80%;
+    margin: 0px auto;
+}
+
+.post {
+    width: 100%;
+    padding: 0px 15px;
+    text-align: left;
+    border: 1px solid silver;
+    border-radius: 5px;
+}
