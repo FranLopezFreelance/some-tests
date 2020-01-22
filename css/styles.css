@@ -2,6 +2,7 @@ body {
     color: salmon;
     text-align: center;
     font-family: arial;
+    background: gray;
 }
 
 .container {
@@ -11,8 +12,9 @@ body {
 
 .post {
     width: 100%;
-    padding: 0px 15px;
+    padding: 0px 15px 10px;
     text-align: left;
     border: 1px solid silver;
     border-radius: 5px;
+    background: white;
 }
