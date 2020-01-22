@@ -10,6 +10,11 @@ body {
     margin: 0px auto;
 }
 
+.cabecera {
+    text-align: left;
+    color: white;
+}
+
 .post {
     width: 100%;
     padding: 0px 15px 10px;
